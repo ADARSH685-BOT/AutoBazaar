@@ -15,7 +15,7 @@
 <br/>
 
 ```
-<img width="1915" height="899" alt="Screenshot 2026-04-28 031003" 
+
 
 ```
 
@@ -323,7 +323,8 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=100&section=footer&text=Made%20with%20❤️%20by%20Adarsh%20Kumar&fontSize=18&fontColor=F5F0E8&fontAlignY=65" width="100%"/>
+ <img width="1915" height="899" alt="Screenshot 2026-04-28 031003" src="https://github.com/user-attachments/assets/c7945f59-df9d-4e64-be8b-a7d6f04be9ad" />
+
 
 ⭐ **Star this repo** if you found it helpful!
 
