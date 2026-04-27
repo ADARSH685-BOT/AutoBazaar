@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=200&section=header&text=AutoBazaar%20India&fontSize=60&fontColor=F5F0E8&fontAlignY=38&desc=India's%20Most%20Trusted%20Car%20Marketplace&descAlignY=58&descColor=F5F0E8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?
+  <img width="1914" height="979" alt="Screenshot 2026-04-28 030749" src="https://github.com/user-attachments/assets/6d5f5f9e-3a10-4400-8db3-6bcf02a56fd3" />
+type=waving&color=FF6B00&height=200&section=header&text=AutoBazaar%20India&fontSize=60&fontColor=F5F0E8&fontAlignY=38&desc=India's%20Most%20Trusted%20Car%20Marketplace&descAlignY=58&descColor=F5F0E8&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -13,6 +15,8 @@
 <br/>
 
 ```
+<img width="1915" height="899" alt="Screenshot 2026-04-28 031003" src="https://github.com/user-attachments/assets/37ae3050-07ed-4af7-a861-610ca2882028" />
+
 🚗  BUY  •  💰  SELL  •  🔧  SERVICE  —  ALL IN ONE PLACE
 ```
 
