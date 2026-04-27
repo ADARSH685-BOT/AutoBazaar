@@ -15,9 +15,8 @@
 <br/>
 
 ```
-<img width="1915" height="899" alt="Screenshot 2026-04-28 031003" src="https://github.com/user-attachments/assets/37ae3050-07ed-4af7-a861-610ca2882028" />
+<img width="1915" height="899" alt="Screenshot 2026-04-28 031003" 
 
-🚗  BUY  •  💰  SELL  •  🔧  SERVICE  —  ALL IN ONE PLACE
 ```
 
 <br/>
