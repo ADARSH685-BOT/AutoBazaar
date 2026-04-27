@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@400;500;700&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #FF6B00;
+  --color-secondary: #0D0D0D;
+  --color-accent: #F5F0E8;
+  --color-dark: #0D0D0D;
+  --color-dark-lighter: #1A1A1A;
+  --color-dark-card: #141414;
+  
+  --font-heading: "Bebas Neue", sans-serif;
+  --font-body: "DM Sans", sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-dark text-accent font-body overflow-x-hidden;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading uppercase tracking-wider;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-primary text-white px-6 py-3 rounded-none font-heading text-lg tracking-widest hover:bg-primary/90 transition-all duration-300 transform hover:-translate-y-1 active:scale-95;
+  }
+  
+  .btn-outline {
+    @apply border-2 border-primary text-primary px-6 py-3 rounded-none font-heading text-lg tracking-widest hover:bg-primary hover:text-white transition-all duration-300 transform hover:-translate-y-1 active:scale-95;
+  }
+
+  .glass-card {
+    @apply bg-white/5 backdrop-blur-md border border-white/10;
+  }
+
+  .input-field {
+    @apply bg-dark-lighter border border-white/10 px-4 py-3 text-accent focus:border-primary outline-none transition-all duration-300;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-dark;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-primary rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-primary/80;
+}
+
+/* Smooth Scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+.perspective {
+  perspective: 1000px;
+}
+
+.preserve-3d {
+  transform-style: preserve-3d;
+}
